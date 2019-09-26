@@ -1,6 +1,6 @@
 <?php
 
-$blockElemento =['Sr', 'Th']; 
+$blockElemento =[]; 
 
 $cont = 0;
 
