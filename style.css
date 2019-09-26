@@ -1,0 +1,248 @@
+
+body{
+
+    align-content: center;
+    text-align: center;
+    background-color: lightgray;
+
+}
+
+.filas{
+   border-style: solid;
+   width: 60px;
+   height: 60px;
+   display: inline-block;
+   border-color: white;
+   margin-top: 2px;
+   text-align: center;
+   line-height: 60px;
+   font-family: fantasy;
+   color: transparent;
+   background-color: transparent;
+   border-color: transparent;
+}
+.Alcalinos{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color:#724A8F;
+    border-color: #724A8F;
+ }
+ .Alcalinoterreos{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color:#B073A8 ;
+    border-color: #B073A8;
+ }
+ .MetalesTransicion{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color:#DC981B ;
+    border-color: #DC981B;
+ }
+ .Lantanidos{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color: #D2A042 ;
+    border-color: #D2A042;
+ }
+ .Actinidos{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color: #D37E99;
+    border-color: #D37E99;
+ }
+ .OtrosMetales{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color: #F8E600;
+    border-color: #F8E600;
+ }
+ .Metaloides{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color: #C1F800;
+    border-color: #C1F800;
+ }
+ .OtrosNoMetales{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color: #68CD7D;
+    border-color: #68CD7D;
+ }
+ .Halogenos{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color: #00E7B8 ;
+    border-color: #00E7B8;
+ }
+ .GasesNobles{
+    border-style: solid;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-color: white;
+    margin-top: 2px;
+    text-align: center;
+    line-height: 60px;
+    font-family: fantasy;
+    background-color:#009AE7;
+    border-color: #009AE7;
+ }
+
+.filasBlock{
+    border-style: solid;
+   width: 60px;
+   height: 60px;
+   display: inline-block;
+   border-color: white;
+   margin-top: 2px;
+   text-align: center;
+   line-height: 60px;
+   font-family: fantasy;
+   background-color: gray;
+   border-color: gray;
+}
+
+.leyenda{
+     display: inline-block;
+     background-color: #C1F800;
+}
+
+.metales{
+    border-style: solid;
+    border-color: lightgray;
+    height: 45px;
+    width: 747px;
+    text-align: center;
+    line-height: 45px;
+    background-color: gray;
+    margin:-3px;
+    font: icon;
+    font-size: larger;
+    line-height: 45px;
+}
+.metalesA{
+    border-style: solid;
+    display: inline-block;
+    width: 143px;
+    margin:-3px;
+    font: icon;
+    font-size: larger;
+    text-align: center;
+    border-color:lightgray;
+}
+.metalesB{
+    border-style: solid;
+    display: inline-block;
+    width: 151px;
+    font: icon;
+    font-size: larger;
+    text-align: center;
+    margin: -3px;
+    border-color: lightgray;
+}
+
+.noMetales{
+    border-style: solid;
+    border-color:lightgray;
+    height: 45px;
+    width: 385px;
+    text-align: center;
+    line-height: 45px;
+    background-color: gray;
+    margin:-3px;
+    font: icon;
+    font-size: larger;
+    line-height: 45px;
+}
+
+.noMetalesA{
+    border-style: solid;
+    display: inline-block;
+    width: 124px;
+    margin:-3px;
+    font: icon;
+    font-size: larger;
+    text-align: center;
+    border-color: lightgray;
+}
+.metaloides{
+    border-style: solid;
+    text-align: center;
+    margin-top: 30px;
+    width: 120px; 
+    font: icon;
+    font-size: larger;
+    text-align: center;
+    border-color: #C1F800;
+    
+}
+.metaloides1{
+    margin-top: 13px;
+    color:#C1F800;
+    border-color: #C1F800;
+    width: 120px; 
+}
