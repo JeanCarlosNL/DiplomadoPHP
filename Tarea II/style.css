@@ -12,7 +12,6 @@ body{
    width: 60px;
    height: 60px;
    display: inline-block;
-   border-color: white;
    margin-top: 2px;
    text-align: center;
    line-height: 60px;
@@ -150,10 +149,11 @@ body{
     font-family: fantasy;
     background-color:#009AE7;
     border-color: #009AE7;
+    display: block;
  }
 
 .filasBlock{
-    border-style: solid;
+   border-style: solid;
    width: 60px;
    height: 60px;
    display: inline-block;
